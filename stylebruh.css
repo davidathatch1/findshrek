@@ -125,3 +125,8 @@ a {
   display: block;
   vertical-align: middle;
 }
+
+.shrek-image:hover {
+  display: block;
+  float: right;
+}
